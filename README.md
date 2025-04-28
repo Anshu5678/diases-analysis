@@ -1,1 +1,1 @@
-# diases-analysis
+# Multiple-Disease-Prediction
